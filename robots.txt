@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /logo.svg
+
+Sitemap: https://www.ie-i4.com.cn/sitemap.xml
