@@ -1,7 +1,5 @@
 User-agent: *
 Allow: /
-Disallow: /privacy.html
-Disallow: /terms.html
-Disallow: /cookies.html
+Disallow: /logo.svg
 
-Sitemap: https://www.l-i4.com.cn/sitemap.xml
+Sitemap: https://www.ie-i4.com.cn/sitemap.xml
